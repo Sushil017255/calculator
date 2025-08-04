@@ -17,9 +17,11 @@
 
 ## 🚀 Demo
 
-![Calculator Preview](calculator-gamma-one-69.vercel.app)
+🔗 **Live Preview**: [https://calculator-gamma-one-69.vercel.app](https://calculator-gamma-one-69.vercel.app)
 
-*Screenshot of the calculator in action*
+![Calculator Preview](https://via.placeholder.com/600x400/4285f4/ffffff?text=Calculator+Preview)
+
+*Try the calculator live or view the screenshot above*
 
 ## 🛠️ Technologies Used
 
