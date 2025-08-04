@@ -12,11 +12,12 @@ body {
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
  .Calculator{
-  width: 250px;
+  width: 450px;
   background: black;
-  padding: 20px;
+  padding: 15px;
   border-radius: 10px;
    text-align: center;
+   height: 300px;
  }
  input {
    width: 100%;
@@ -40,8 +41,8 @@ body {
    
  }
  button{
-    width: 100%;
-    height: 110%;
+    width: 100px;
+    height: 40px;
     font-size: medium;
     border: none;
     border-radius: 5px;
